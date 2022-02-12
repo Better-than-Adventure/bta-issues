@@ -1,4 +1,4 @@
-# bta-issues
+# BTA Bug Reports
 You can report bugs for Better than Adventure here.
 
 Issue template:
